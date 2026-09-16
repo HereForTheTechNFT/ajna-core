@@ -1,3 +1,7 @@
+## Parcours francais
+
+Un parcours documentaire en français est disponible dans [docs/fr/](docs/fr/).
+
 # Ajna contracts
 
 The Ajna protocol is a non-custodial, peer-to-peer, permissionless lending, borrowing and trading system that requires no governance or external price feeds to function. The protocol consists of pools: pairings of quote tokens provided by lenders and collateral tokens provided by borrowers. Ajna is capable of accepting fungible tokens as quote tokens and both fungible and non-fungible tokens as collateral tokens.
